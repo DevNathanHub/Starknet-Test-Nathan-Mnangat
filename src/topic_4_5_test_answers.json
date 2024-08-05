@@ -1,0 +1,75 @@
+[
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "IPFS is for developers looking for decentralization and data integrity, whereas hosting providers like Vercel are for users looking for simplicity of use and centralized control.",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "https://starkbank.vercel.com",
+    "options": null
+  }
+]

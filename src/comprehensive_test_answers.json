@@ -1,0 +1,359 @@
+[
+  {
+    "question_type": "oe",
+    "answer": "Starknet is a L2 scaling solution in Ethereum ecosystem designed in order to increase scalability and efficiency of the Ethereum blockchain by using ZK-rollups",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "ZKPs combine several transactions from Starknet into a single proof, which is then sent to the Ethereum mainnet. In addition to improving security and scalability, this procedure guarantees transaction validity, increases privacy, and decreases on-chain data, hence reducing transaction cost.",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "Scalability, LOw transaction cosr, improved throughput",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Starknet uses ZK-rollups for scaling and does not require a separate consensus mechanism. relies onEthereum's proof-of-stake",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "When assets are locked on the Ethereum mainnet, Starknet mints a matching amount, or the other way around. Usually, a smart contract is used on both networks to manage the security lock and minting procedures. THis process is know as Bridging",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "by use of ZK-rollups to bundle transactions into single proof, reducing thr data tha needs to be stored on Eth Mainnet.This process lowes transaction cost and increase throughtput",
+    "options": null
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "Gaming, Non FUngible tokens, Decetralized FInance",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "complexity of ZK-rollups",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Designing ZK-proof-based smart contracts",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Uses linear memory management model designed for ZK-rollups ensuring efficient access for verification by zk-proofs",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "Felt is a variable that represents 252 bits use in arithmetic operations in Cairo. THese variables helps in computations within smart contracts and are designed to ensure that operations can be efficiently verified by ZK-rolluops",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Testing and code audits, avoiding complex logics, ensuring correct use of field elements and operations",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "by usinf starknet-cli",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "To define a smart contract in Cairo, you can specify its functions, state variables, and other attributes by using the contract keyword. It is the main building block that Cairo uses to create smart contracts.",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "structs can have multiple fields which can be of different data typle while enums contains fixed number of fields of the same data type",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "integer overflows and underflows, unchecked calls and potential floes im zk-rollups implementations due to its complexity",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Frontend authentication, use of sessions at frontend level and using formal verification tools, following best practices of smart contract development",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "instaling starknet-react library using npm pacage manager, creating instance of the contract and call its functions or send transactions via its library",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "starknet-react",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "managinf async interactions and ensuring compatability with other various wallets and handling transaction delays",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Dojo, a provable game engine, allows developers to create autonomous worlds using the Cairo programming language, is a framwork designed to facilitate dapps and smartcontact development",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "streamlined development process, specialized tools fot game logic and smart integration and optimized support for interacting to starknet network",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "efficienct, handling ping issues and ensuring security",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "State channels is a concept used that allows participants to conduct off-chain transactions and only final transaction is recorded on chain. this reduces transaction cost that could have occured due to frequest transactions",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Cairo smart contracts in DeFi are used for scalability solutions, privacy-preserving transactions, and implementing automated market makers",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Setting up local development environment, Starknet testnet, unit test",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "strarknet-react and strknet-js",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "Session management, using backend as a service tools like firebaauthentication, intergrating wallets like Bravoos and AgentX",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "using tools like redux to manage state efficiently, asyncronous data fetching by use of axios, batch processing and aggregation",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "Developer tools and sdks growth and clear documentations",
+    "options": null
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      1,
+      3
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      0,
+      3
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      4
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      0,
+      2
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": []
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "mc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  }
+]
